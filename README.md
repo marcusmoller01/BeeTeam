@@ -7,8 +7,8 @@ Syntax för att kära igång programmet är:
 
 Initialise the input arguments
 \n
-Run command syntax: 
-run main.py folder_path remove_file kupa_nr 
+Run command syntax: \n
+run main.py folder_path remove_file kupa_nr \n
 Where: 
 Folder_path = (string) path of folder on raspberry pi where the program reads the files 
 remove_file = (boolean) True if the program should remove the read file from the folder otherwise False
