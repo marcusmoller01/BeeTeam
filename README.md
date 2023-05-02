@@ -5,11 +5,11 @@ Programmet ligger och kör var femte sekund där det läser från en given mapp 
 
 Syntax för att kära igång programmet är
 
-Initialise the input arguments
+Initialise the input arguments:
 
 Run command syntax
-run main.py folder_path remove_file kupa_nr 
-Where
+run main.py folder_path remove_file kupa_nr
+Where:
 Folder_path = (string) path of folder on raspberry pi where the program reads the files 
 remove_file = (boolean) True if the program should remove the read file from the folder otherwise False
 kupa_nr = (int) number to indicate on which beehive the program is running, this to communicate correctly with OWL. 
