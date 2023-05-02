@@ -4,7 +4,7 @@ Code for BeeTeam2023
 Programmet ligger och kör var femte sekund där det läser från en given mapp och sparar undan till det som filen sparas till. 
 Innan programmet körs behövs mappen "bees" "birds" "wind" och "other" skapas där de analyserade filerna sparas. 
 
-Syntax för att kära igång programmet är
+Syntax för att köra igång programmet är
 
 Initialise the input arguments:
 
