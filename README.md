@@ -4,7 +4,7 @@ Code for BeeTeam2023
 Programmet ligger och kör var femte sekund där det läser från en given mapp och sparar undan till det som filen sparas till. Innan programmet körs behövs mappen "bees" "birds" "wind" och "other" skapas där de analyserade filerna sparas. 
 
 Syntax för att kära igång programmet är
-
+"""
 Initialise the input arguments:
 
 Run command syntax
@@ -17,3 +17,4 @@ kupa_nr = (int) number to indicate on which beehive the program is running, this
 1 = sound_Apiary-LE_2
 2 = sound_Apiary-LE_3
 3 = sound_Beehive-LN
+"""
