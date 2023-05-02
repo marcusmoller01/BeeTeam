@@ -6,7 +6,7 @@ Programmet ligger och kör var femte sekund där det läser från en given mapp 
 Syntax för att kära igång programmet är: 
 
 Initialise the input arguments
-
+\n
 Run command syntax: 
 run main.py folder_path remove_file kupa_nr 
 Where: 
