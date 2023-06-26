@@ -28,3 +28,4 @@ kupa_nr = (int) number to indicate on which beehive the program is running, this
 
 3 = sound_Beehive-LN
 
+Om det finns frågor om kod/vad vi gjort, bara att höra av sig till marcus.moller.swed@gmail.com
